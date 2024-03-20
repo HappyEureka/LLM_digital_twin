@@ -1,0 +1,106 @@
+{
+  "Happy Mall": {
+    "Anchor Stores": {
+        "Happy’s Department Store": "Multi-level, variety of clothing, home goods, electronics.",
+        "Weekend Outdoors": "Outdoor equipment and apparel."
+    },
+    "Fashion & Apparel": {
+        "Elegant Styles": "Women’s fashion boutique.",
+        "Urban Gear": "Youth fashion, sneakers, accessories."
+    },
+    "Electronics & Technology": {
+        "Tech Haven": "Smartphones, laptops, accessories.",
+        "Gamer’s Paradise": "Video games, consoles, gaming accessories."
+    },
+    "Food & Dining": {
+        "Savor’s Grille": "Sit-down, American and international dishes.",
+        "Café Fresco": "Coffee shop, pastries, coffee, teas.",
+        "Quick Bites Food Court": "Variety of fast-food options."
+    },
+    "Health & Beauty": {
+        "Serene Spa and Salon": "Massages, hair services, beauty treatments.",
+        "Vital Pharmacy": "Prescriptions, health and wellness products."
+    },
+    "Specialty Stores": {
+        "Book Nook": "Bookstore with café corner.",
+        "Happy Florist": "Flowers, customized bouquets.",
+        "Gifts & More": "Gifts, cards, seasonal decorations."
+    },
+    "Entertainment & Services": {
+        "Cineplex": "Modern cinema, latest movies.",
+        "Child’s Play": "Indoor play area for children."
+    },
+    "Fitness": {
+        "Powerhouse Gym": "Modern facilities, fitness classes, personal training."
+    },
+    "Mall Amenities": {
+        "Information Desk": "Central location, assisting visitors."
+    },
+    "Events and Promotions": {
+        "Weekend Live": "Live music at the central atrium.",
+        "Holiday Celebrations": "Special events and sales during holidays."
+    }
+  },
+  "Groups": {
+    "Families with Young Children": {
+      "Description": "Parents accompanied by small children, often carrying extra layers for the kids.",
+      "Thermal Preference": "Prefer warmer areas of the mall for children's comfort",
+      "High": "28",
+      "Low": "27.8"
+    },
+    "Teen Shoppers": {
+      "Description": "Fashion-conscious, often dressed in trendy but not necessarily weather-appropriate attire.",
+      "Thermal Preference": "Prefer cooler areas, comfortable in varied temperatures",
+      "High": "22.3",
+      "Low": "21.8"
+    },
+    "Elderly Couples": {
+      "Description": "Dressed in comfortable, layered clothing for warmth.",
+      "Thermal Preference": "Seek out warmer spots in the mall",
+      "High": "28.5",
+      "Low": "27.9"
+    },
+    "Business Professionals": {
+      "Description": "In formal or semi-formal office wear, possibly carrying a coat or blazer.",
+      "Thermal Preference": "Comfortable in moderate to cool temperatures",
+      "High": "25.3",
+      "Low": "24.5"
+    },
+    "Athletic Individuals": {
+      "Description": "Wearing sporty, breathable attire.",
+      "Thermal Preference": "Prefer cooler conditions, often after workouts",
+      "High": "20.5",
+      "Low": "19.5"
+    },
+    "Tourist Groups": {
+      "Description": "Dressed for comfort and exploration, often with backpacks and cameras.",
+      "Thermal Preference": "Varies greatly, often adapted to outdoor temperatures",
+      "High": "23.5",
+      "Low": "23"
+    },
+    "Remote Workers": {
+      "Description": "Casually dressed, often with a laptop or tablet.",
+      "Thermal Preference": "Seek comfortable spots, often near cafes or quieter areas",
+      "High": "26",
+      "Low": "24.7"
+    },
+    "Retail Employees": {
+      "Description": "In store uniforms or branded clothing, accustomed to mall climate.",
+      "Thermal Preference": "Adapted to the general mall temperature",
+      "High": "24.8",
+      "Low": "23.3"
+    },
+    "Fashion Enthusiasts": {
+      "Description": "Trendy and stylish, often trying on various outfits.",
+      "Thermal Preference": "Varied, often influenced by fashion choices over comfort",
+      "High": "25.5",
+      "Low": "25"
+    },
+    "Senior Shoppers": {
+      "Description": "Dressed for comfort and ease, with sensible shoes and layers.",
+      "Thermal Preference": "Prefer warmer areas, especially in colder seasons",
+      "High": "27.6",
+      "Low": "27"
+    }
+  }
+}
