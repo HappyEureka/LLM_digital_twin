@@ -7,11 +7,12 @@
 
 ### Citation
 Please consider citing the work if you find it helpful!
-'''
+
+~~~
 @article{yang2024llm,
   title={An LLM-Based Digital Twin for Optimizing Human-in-the Loop Systems},
   author={Yang, Hanqing and Siew, Marie and Joe-Wong, Carlee},
   journal={arXiv preprint arXiv:2403.16809},
   year={2024}
 }
-'''
+~~~
