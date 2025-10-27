@@ -9,10 +9,12 @@
 Please consider citing the work if you find it helpful!
 
 ~~~
-@article{yang2024llm,
-  title={An LLM-Based Digital Twin for Optimizing Human-in-the Loop Systems},
+@inproceedings{yang2024llm,
+  title={An llm-based digital twin for optimizing human-in-the loop systems},
   author={Yang, Hanqing and Siew, Marie and Joe-Wong, Carlee},
-  journal={arXiv preprint arXiv:2403.16809},
-  year={2024}
+  booktitle={2024 IEEE International Workshop on Foundation Models for Cyber-Physical Systems \& Internet of Things (FMSys)},
+  pages={26--31},
+  year={2024},
+  organization={IEEE}
 }
 ~~~
